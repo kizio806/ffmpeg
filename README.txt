@@ -1,3 +1,25 @@
+
+To repozytorium zawiera binarną wersję `ffmpeg.exe`, która jest objęta licencją GNU General Public License v3 (GPLv3).
+
+- Strona projektu FFmpeg: https://ffmpeg.org/
+- Kod źródłowy: https://github.com/FFmpeg/FFmpeg
+- Binarka użyta w tym repozytorium pochodzi z: https://www.gyan.dev/ffmpeg/builds/
+
+Zgodnie z licencją GPL v3 użytkownicy mają prawo do:
+- dostępu do kodu źródłowego,
+- modyfikacji i redystrybucji oprogramowania,
+- korzystania z niego w dowolnym celu, z zachowaniem warunków licencji.
+
+Pełna treść licencji znajduje się w pliku `LICENSE.txt`.
+
+
+
+
+
+
+
+
+
 FFmpeg 64-bit static Windows build from www.gyan.dev
 
 Version: 7.1.1-essentials_build-www.gyan.dev
